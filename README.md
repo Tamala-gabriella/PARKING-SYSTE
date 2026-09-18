@@ -11,7 +11,7 @@ A functional, web-based parking management system. Companion design document: `D
   free bay, opens the entry barrier (R2).
 - **Exit & pay** (`/exit`) — computes time parked and the fee from the
   tariff table, takes payment (mocked M-Pesa), opens the exit barrier only
-  once payment settles (R3, R4).
+  once payment settles (R3, R4).The vehicle's bay is freed immediately on exit, updating the available slot count so the Board reflects it in real time.
 - **Admin** (`/admin`) — today's revenue, currently-parked count, overstay
   list, a blacklist control, and the gate/audit event logs (M8).
 
