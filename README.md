@@ -1,6 +1,6 @@
 # SmartPark KE
 
-A functional, web-based parking management system built for the digitalised parking system
+A functional, web-based parking management system. Companion design document: `DESIGN.md` (in the repo root, submitted alongside this code).
 `DESIGN.md` (in the repo root, submitted alongside this code).
 
 ## What it does
