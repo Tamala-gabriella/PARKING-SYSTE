@@ -1,7 +1,6 @@
 # SmartPark KE
 
-A functional, web-based parking management system built for the DSA Task One
-brief at Multimedia University of Kenya. Companion design document:
+A functional, web-based parking management system built for the digitalised parking system
 `DESIGN.md` (in the repo root, submitted alongside this code).
 
 ## What it does
